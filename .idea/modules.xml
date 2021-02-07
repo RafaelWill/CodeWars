@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CodeWars.iml" filepath="$PROJECT_DIR$/.idea/CodeWars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Kata/CountTheSmileys/CountTheSmileys.iml" filepath="$PROJECT_DIR$/Java/Kata/CountTheSmileys/CountTheSmileys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Kata/Maskify/Maskify.iml" filepath="$PROJECT_DIR$/Java/Kata/Maskify/Maskify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Kata/SquareEveryDigit/SquareEveryDigit.iml" filepath="$PROJECT_DIR$/Java/Kata/SquareEveryDigit/SquareEveryDigit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Kata/TriangleTester/TriangleTester.iml" filepath="$PROJECT_DIR$/Java/Kata/TriangleTester/TriangleTester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Kata/WhoLikesIt/WhoLikesIt.iml" filepath="$PROJECT_DIR$/Java/Kata/WhoLikesIt/WhoLikesIt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Kata/YouAreASquare/YouAreASquare.iml" filepath="$PROJECT_DIR$/Java/Kata/YouAreASquare/YouAreASquare.iml" />
+    </modules>
+  </component>
+</project>

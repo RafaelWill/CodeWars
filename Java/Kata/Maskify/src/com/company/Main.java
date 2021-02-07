@@ -10,6 +10,8 @@ public class Main {
 
         System.out.println(maskify("Skippy"));
         System.out.println(maskify("Nananananananananananananananana Batman!"));
+
+        System.out.println(maskify("Nele Peetermans"));
     }
 
     public static String maskify(String str) {
